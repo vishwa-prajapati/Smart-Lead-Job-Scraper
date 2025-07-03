@@ -48,3 +48,7 @@ Caprae Capital’s mission to create post-acquisition value through AI-driven op
 ```bash
 git clone https://github.com/your-username/smart-leadgen-scraper.git
 cd smart-leadgen-scraper
+
+## **2. Install Dependencies**
+```bash
+pip install -r requirements.txt
