@@ -44,7 +44,7 @@ Caprae Capital’s mission to create post-acquisition value through AI-driven op
 ### 1. Clone this Repo
 
 
-git clone https://github.com/your-username/smart-leadgen-scraper.git
+git clone https://github.com/vishwa-prajapati/Smart-Lead-Job-Scraper.git
 cd smart-leadgen-scraper
 
 
@@ -101,7 +101,7 @@ To align with real-world lead qualification and sales workflows, the following f
 ##  **👨‍💻 About the Developer**
 Vishwa Prajapati <br>
 📍 Mehsana, Gujarat <br>
-📫 vishwaprajapati@example.com <br>
+📫 vishwaprajapati317@gmail.com <br>
 
 
 ---
