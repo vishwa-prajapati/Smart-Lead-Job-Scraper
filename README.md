@@ -49,6 +49,68 @@ Caprae Capital’s mission to create post-acquisition value through AI-driven op
 git clone https://github.com/your-username/smart-leadgen-scraper.git
 cd smart-leadgen-scraper
 
-## **2. Install Dependencies**
-```bash
+---
+
+
+## 2. Install Dependencies
 pip install -r requirements.txt
+
+---
+
+
+## 3. Run the App
+streamlit run app.py
+
+---
+
+
+## 📁 Folder Structure
+smart-leadgen-scraper/
+├── app.py               # Streamlit UI
+├── scraper.py           # Scraping logic
+├── utils.py             # Regex-based extractors & download function
+├── requirements.txt     # Dependency list
+├── README.md            # You’re reading it!
+📊 Caprae Evaluation Criteria
+
+
+---
+
+
+**🧩 Criteria	✅ How It’s Met**
+Business Use Case	Surfaces high-value leads via hiring signals & contact discovery
+UX/UI	Clean, intuitive layout with expandable sections and CSV export
+Technical Execution	BeautifulSoup-based scraping, regex parsing, user-agent spoofing
+Design Aesthetic	Minimalist, professional, mobile-friendly interface
+Creative Value-Add	Custom role filters, CSV download, CRM-ready outputs
+**📑 1-Page Report Summary**
+This solution was built within 5 hours as a lightweight leadgen scraper. It scrapes live job postings and contact details from company websites, guided by user-defined keywords. The output is presented via a Streamlit UI with instant CSV export. It’s designed to signal growth-ready companies and unlock outreach opportunities for sales or M&A teams. The tool is flexible, fast, and aligns with Caprae Capital’s goal of enabling post-acquisition value through AI.
+
+
+---
+
+
+**🔮 Future Enhancements**
+To align with real-world lead qualification and sales workflows, the following features are planned:
+
+✅ Email Verification APIs – Integrate services like NeverBounce or ZeroBounce for validated contact lists
+🌐 LinkedIn/Glassdoor Add-ons – Augment with external hiring signals and company insights
+🧠 AI Chat Agent – Let users ask questions like “Which companies are hiring backend engineers in SaaS?”
+
+**👨‍💻 About the Developer**
+Vishwa Prajapati
+📍 Mehsana, Gujarat
+📫 vishwaprajapati@example.com
+
+**📄 License**
+This project is licensed under the MIT License.
+
+**🌟 Acknowledgments**
+Special thanks to Caprae Capital for the challenge and inspiration, and to the SaaSquatch Leads concept for the business problem reference.
+
+---
+
+**Additional Options**:
+- If you want a **PDF export**, I can guide you to copy this markdown into a tool like VS Code or Obsidian, then use a markdown-to-PDF converter (e.g., Pandoc or a browser extension).
+- For a downloadable `README.md`, you can copy the above code into a file named `README.md` and save it in your project directory.
+- If you need help with a **video walkthrough script** or **Loom outline**, let me know, a
